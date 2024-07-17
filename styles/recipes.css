@@ -8,3 +8,17 @@ section {
   border-radius: 10px; /* Rounds the corners */
   padding: 14px;
 }
+
+h1 {
+  font-style: italic;
+}
+
+li,
+p,
+a {
+  font-size: 18px;
+}
+
+.home-link {
+  padding-bottom: 50px;
+}
