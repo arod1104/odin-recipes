@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(255, 235, 210);
+}
+
+section {
+  background-color: white;
+  margin: 20px; /* Adds space around each section */
+  border-radius: 10px; /* Rounds the corners */
+  padding: 14px;
+}
